@@ -1,6 +1,6 @@
 # SOIL - **Simple OpenGL Image Library**
 Simple OpenGL Image Library with  CMake build
-
+### ![GitHub](https://img.shields.io/github/license/Pikachuxxxx/SOIL?style=for-the-badge)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pikachuxxxx/SOIL?color=E89393&logoColor=E89393&style=for-the-badge)
 
 **Introduction:**  
 
@@ -167,7 +167,7 @@ done with the heightmap, free up the RAM
 
     SOIL_free_image_data( ht_map );
 
-### License :  MIT
+
   [1]: http://msdn2.microsoft.com/en-us/library/bb174608.aspx#NTSC_Suggestions
   [2]: http://developer.nvidia.com/object/real-time-ycocg-dxt-compression.html
   [3]: http://icculus.org/physfs/
