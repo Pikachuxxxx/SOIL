@@ -6,6 +6,10 @@ Simple OpenGL Image Library with  CMake build
 
 SOIL is a tiny C library used primarily for uploading textures into OpenGL. It can load TGA and DDS files, and to perform common functions needed in loading OpenGL textures. SOIL can also be used to save and load images in a variety of formats.
 
+This is a clone of Simple OpenGL Image Library from http://lonesock.net/soil.html which hasn't changed since July 7, 2008.
+
+I wanted to work with the code and seeing it was MIT license and the original svn repo is offline, I figured it was acceptable to post it here with some changes to the codebase and added the Cmake build file.
+
 **Features:** 
 
   *   Readable Image Formats: 
